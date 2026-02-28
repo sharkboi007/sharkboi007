@@ -19,6 +19,8 @@ Optimize system performance and resilience
 I focus on continuous learning, practical implementation, and building systems that are secure, observable, and production-ready.
 
 📫 Connect With Me
-🌐 Portfolio / Website
-[LinkedIn]([(https://www.linkedin.com/in/tushar-ojha-78311416a/)])
-[Email](palashakare123@gmail.com)💌
+Visit my [Website ](https://palashakare.netlify.app/)🌐
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/tushar-ojha-78311416a/) 👨🏻‍💻
+
+Shoot Me an [Email](tusharofficial2024@gmail.com)💌 
