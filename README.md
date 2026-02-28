@@ -20,5 +20,5 @@ I focus on continuous learning, practical implementation, and building systems t
 
 📫 Connect With Me
 🌐 Portfolio / Website
-💼 LinkedIn
-📧 Email
+[LinkedIn]([(https://www.linkedin.com/in/tushar-ojha-78311416a/)])
+[Email](palashakare123@gmail.com)💌
