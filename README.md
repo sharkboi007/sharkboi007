@@ -1,6 +1,6 @@
 Hi there 👋
 
-🔭 I’m Tushar, a Cloud / DevSecOps / SRE Engineer with 4 years of hands-on industry experience building scalable, secure, and automated infrastructure.
+🔭 I’m [Tushar](https://www.linkedin.com/in/tushar-ojha-78311416a/) 👨🏻‍💻, a Cloud / DevSecOps / SRE Engineer with 4 years of hands-on industry experience building scalable, secure, and automated infrastructure.
 
 ⚙️ Core Expertise
 AWS Cloud • Kubernetes • Docker • Terraform • Jenkins • Ansible • Linux • CI/CD • Infrastructure as Code • Automation
