@@ -11,7 +11,7 @@ Design and manage reliable cloud infrastructure
 
 Automate deployments and operational workflows
 
-Implement secure, scalable DevOps practices
+Implement secure, scalable DevSecOps practices
 
 Optimize system performance and resilience
 
