@@ -19,7 +19,7 @@ Optimize system performance and resilience
 I focus on continuous learning, practical implementation, and building systems that are secure, observable, and production-ready.
 
 📫 Connect With Me
-Visit my [Website ](https://palashakare.netlify.app/)🌐
+Visit my [Website ]([https://sharkboi007.github.io/Portfolio/])🌐
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/tushar-ojha-78311416a/) 👨🏻‍💻
 
